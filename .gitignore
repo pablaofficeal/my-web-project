@@ -1,0 +1,6 @@
+*__pycache__/
+*.pyc
+*instance
+*.db
+*.sqlite3
+static/.well-known/appspecific/com.chrome.devtools.json
